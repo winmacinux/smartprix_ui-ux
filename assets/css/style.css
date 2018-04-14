@@ -1,0 +1,163 @@
+.header-1 input{
+	width: 400px !important;
+}
+.header-2{
+	background-color: #e3f2fd;
+}
+.header-2 li{
+	border-right: 2px solid black;
+}
+.header-2 a{
+	color: black;
+}
+.header-2 .dropdown-menu{
+	width: 50rem;
+}
+.content-banner #bannerControls img{
+	height: 376px;
+}
+.content-banner .deal-of-day-card img{
+	width: auto;
+	height: 150px;
+}
+.content-banner .carousel-control-prev{
+	color: black;
+}
+.content-banner .carousel-control-next{
+	color: black !important;
+}
+#main-categories .card{
+	cursor: pointer;
+}
+#main-categories .card .oi{
+	font-size: 48px;
+}
+#main-categories .card img{
+	width: 50px;
+	height: 50px;
+}
+#deals .deals-card{
+	cursor: pointer;
+	text-align: center;
+}
+#deals .deals-card img{
+	width: auto;
+	height: 100px;
+}
+#deals .deals-card:hover img{
+	width: unset;
+}
+.swiper-container {
+  	width: 100%;
+  	margin: 0 auto;
+}
+.swiper-slide {
+	text-align: center;
+	font-size: 18px;
+	background: #fff;
+	/* Center slide text vertically */
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+}
+.append-buttons {
+	text-align: center;
+	margin-top: 20px;
+}
+footer{
+	padding-top: 50px;
+}
+footer .list-group{
+	border-radius: none;
+}
+footer .newsletter{
+	padding-top: 150px;
+}
+footer .list-group a{
+	border-radius: 0 !important;
+	border: 0 !important;
+	background-color: inherit;
+	color: white;
+}
+#find-phone .badge{
+	padding: 10px 15px;
+	margin: 5px 5px;
+	cursor: pointer;
+}
+#popular_products img{
+	height: 100px;
+	width: auto;
+}
+#popular_products .popular-card {
+	border-radius: 0;
+	border-top: 0;
+	border-left: 0; 
+	border-bottom: 0;
+	cursor: pointer; 
+}
+#upcoming_products img{
+	height: 100px;
+	width: auto;
+}
+#upcoming_products .popular-card {
+	border-radius: 0;
+	border-top: 0;
+	border-left: 0; 
+	border-bottom: 0;
+	cursor: pointer; 
+}
+#last_section .media img{
+	width: 2rem;
+	height: 2rem;
+	margin-left: 15px;
+}
+#last_section a {
+	border: 0;
+}
+#last_section .list-unstyled {
+	margin-bottom: 0;
+}
+#last_section .card-body {
+	padding: 0;
+}
+#last_section .list-group-item{
+	padding: 0;
+}
+#last_section .list-group-item-action:hover{
+	background-color: #BBDEFB;
+}
+#trending_searches .media img{
+	width: 2rem;
+	height: 2rem;
+	margin-left: 15px;
+}
+#trending_searches a {
+	border: 0;
+}
+#trending_searches .list-unstyled {
+	margin-bottom: 0;
+}
+#trending_searches .card-body {
+	padding: 0;
+}
+#trending_searches .list-group-item{
+	padding: 0;
+}
+#trending_searches .list-group-item-action:hover{
+	background-color: #BBDEFB;
+}
+.bg-blue-light{
+	background-color: #ECEFF1;
+}
+.bg-nav{
+	background-color: #4692f0;
+}
